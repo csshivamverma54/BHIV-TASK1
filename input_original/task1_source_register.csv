@@ -1,0 +1,7 @@
+source_id,source_name,owner_role,method,permission,refresh,limitations
+SRC-A,Training nursery register,Synthetic custodian,Manual form simulation,Synthetic use only,Daily,Synthetic only
+SRC-B,Training water observations,Synthetic custodian,Mock sensor export,Synthetic use only,Hourly,Comma decimal in one value
+SRC-C,Training plantation log,Synthetic custodian,CSV simulation,Synthetic use only,Weekly,Negative count and repeated source ref
+SRC-D,Training coastal restoration log,Synthetic custodian,Mock API export,Synthetic use only,Daily,Extreme value for review
+SRC-E,Training water observations 2,Synthetic custodian,Mock sensor export,Synthetic use only,Hourly,No seeded defect noted
+SRC-F,Training nursery register 2,Synthetic custodian,Manual form simulation,Synthetic use only,Daily,Malformed timestamp
