@@ -101,9 +101,9 @@
 
 | Working Day | Date       |    Focused Time |
 | ----------- | ---------- | --------------: |
-| Day 1       | 02-10-2026 |     1 hr 45 min |
-| Day 2       | 03-10-2026 |            2 hr |
-| Day 3       | 04-10-2026 |            2 hr |
+| Day 1       | 04-10-2026 |     1 hr 45 min |
+| Day 2       | 05-10-2026 |            2 hr |
+| Day 3       | 06-10-2026 |            2 hr |
 | **Total**   |            | **5 hr 45 min** |
 
 ## Time-Logging Note
